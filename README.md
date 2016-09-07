@@ -33,7 +33,7 @@
 
 #### スクリプトのインストール
 
-    sudo script/run.sh > /usr/local/bin/docker-php
+    sudo cp script/run.sh /usr/local/bin/docker-php
     sudo chmod +x /usr/local/bin/docker-php
 
 ### 実行
